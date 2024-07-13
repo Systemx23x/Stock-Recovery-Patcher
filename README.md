@@ -1,10 +1,3 @@
-# Similar script
-You can also refer this [script](https://github.com/engineer4t/fastboot-patcher)
-
-
-# Patch-Recovery
-This CI service patches recovery images of Samsung to enable Fastbootd. Based on Phh's [script](https://github.com/phhusson/samsung-galaxy-a51-gsi-boot)
-
 # How to use:
 - Fork this repo.
 - Extract your recovery.img.lz4 and upload recovery.img (not lz4) to [transfer.sh](https://transfer.sh/) or any other file hosting sites. Once uploaded right click on the Download button and copy the URL. Avoid Gdrive links for now as it has been causing an error in some cases. 
