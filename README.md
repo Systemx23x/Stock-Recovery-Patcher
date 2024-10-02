@@ -11,10 +11,10 @@ Forked by Johx22,and modded by System23<br>
 
 ## A View Patched-Recoverys with Fastbootd CI Service
 
-````
+
 Download Link
 <a href=https://c.1und1.de/@1157988897574099954/LWnBRdg7SC2zvSX3WF7jzA>Patched-Recoverys - 1&1 Onlinespeicher</a><br>
-````
+
 
 ````
 patched-recovery-A155FXXU2BXE2.zip
