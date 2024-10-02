@@ -12,19 +12,23 @@ Forked by Johx22,and modded by System23</br>
 ## A View Patched-Recoverys with Fastbootd CI Service
 
 ````
-patched-recovery-A155FXXU2BXE2.zip</br>
-patched-recovery-S911BXXS3CXD2.zip</br>
-patched-recovery-G991U1UES9FXA1.zip</br>
-patched-recovery-A057GXXU1BXC4.zip</br>
-patched-recovery-X800XXU6CXE2.zip</br>
-patched-recovery-A125FXXS3CWF3.zip</br>
-patched-recovery-T590XXU3CVG5.zip</br>
-patched-recovery-A715FXXSBDXB1.zip</br>
-patched-recovery-S901BXXSAEXEC.zip</br>
-patched-recovery-S921BXXS2AXEF.zip</br>
-patched-recovery-X516BXXU4BXE3.zip</br>
-patched-recovery-S901BXXSBEXFF.zip</br>
-patched-recovery-S921BXXS3AXGF.zip</br>
-patched-recovery_A136BXXU7DXE2.zip</br>
-patched-recovery_G9600ZHU9FVF2.zip</br>
+Download Link 
+````
+
+````
+patched-recovery-A155FXXU2BXE2.zip
+patched-recovery-S911BXXS3CXD2.zip
+patched-recovery-G991U1UES9FXA1.zip
+patched-recovery-A057GXXU1BXC4.zip
+patched-recovery-X800XXU6CXE2.zip
+patched-recovery-A125FXXS3CWF3.zip
+patched-recovery-T590XXU3CVG5.zip
+patched-recovery-A715FXXSBDXB1.zip
+patched-recovery-S901BXXSAEXEC.zip
+patched-recovery-S921BXXS2AXEF.zip
+patched-recovery-X516BXXU4BXE3.zip
+patched-recovery-S901BXXSBEXFF.zip
+patched-recovery-S921BXXS3AXGF.zip
+patched-recovery_A136BXXU7DXE2.zip
+patched-recovery_G9600ZHU9FVF2.zip
 ````
