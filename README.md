@@ -17,6 +17,7 @@ Download Link
 
 
 ````
+patched-recovery-S901BXXUBEXH7.zip
 patched-recovery-A155FXXU2BXE2.zip
 patched-recovery-S911BXXS3CXD2.zip
 patched-recovery-G991U1UES9FXA1.zip
